@@ -1,0 +1,10 @@
+por_alumno:
+  - { clave: cartulina, nombre: "Cartulina A4 cortada en tiras de 7 × 21 cm (los «pisos» de la torre)", cantidad: 0.25, unidad: hojas A4, tipo: fungible, coste_eur: 0.10, enlace: null, alternativa_reciclada: "Tiras de cartón de cajas de cereales" }
+  - { clave: folio, nombre: "Hoja de instrucciones del equipo (una por equipo)", cantidad: 0.25, unidad: hojas A4, tipo: fungible, coste_eur: 0.01, enlace: null, alternativa_reciclada: "Reverso de un folio usado" }
+  - { clave: gomets, nombre: "Gomets de color para la firma del equipo", cantidad: 2, unidad: unidades, tipo: fungible, coste_eur: 0.01, enlace: null, alternativa_reciclada: "Firma con un rotulador del color del equipo" }
+por_grupo:
+  - { clave: vaso-papel, nombre: "Vasos de papel de 200 ml (12 por equipo; se guardan sin pegar para otras sesiones)", cantidad: 48, unidad: unidades, tipo: equipo }
+  - { clave: rotuladores, nombre: "Rotuladores de colores (uno por equipo para cada ronda, de distinto color)", cantidad: 4, unidad: estuches, tipo: equipo }
+  - { clave: cinta-carrocero, nombre: "Cinta de carrocero para marcar la zona de cada equipo en el suelo o la mesa", cantidad: 1, unidad: rollos, tipo: fungible }
+  - { clave: cinta-metrica, nombre: "Cinta métrica (solo 2.º)", cantidad: 2, unidad: unidades, tipo: equipo }
+  - { clave: libro, nombre: "Libro mediano para la prueba de fuerza (un peluche en Infantil)", cantidad: 4, unidad: unidades, tipo: equipo }

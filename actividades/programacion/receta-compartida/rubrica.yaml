@@ -1,0 +1,26 @@
+niveles: [Empezando, En camino, Lo consigo, Lo amplío]
+criterios:
+  - nombre: La receta como algoritmo
+    descriptores:
+      - Escribe ingredientes sueltos sin pasos.
+      - Escribe pasos, pero desordenados o tan vagos que otro equipo no puede seguirlos.
+      - Escribe pasos en orden que otro equipo sigue sin preguntar.
+      - Corrige un paso ambiguo cuando ve que otro equipo lo entiende de otra forma.
+  - nombre: Reglas de uso
+    descriptores:
+      - Pone gomets al azar en la tarjeta sin saber qué significan.
+      - Elige sus reglas, pero no sabe decir qué permite cada una.
+      - "Explica qué pueden y qué no pueden hacer los demás con su receta según su tarjeta."
+      - "Explica qué efecto ha tenido su regla en el juego (por ejemplo, «nadie pudo mejorarla porque puse no cambiar») y la cambiaría con un motivo."
+  - nombre: Abierto no es gratis
+    descriptores:
+      - Dice que abierto es lo mismo que gratis.
+      - Sabe que abierto tiene que ver con compartir, sin concretar qué se permite.
+      - "Dice qué es abierto (usar, mirar cómo está hecho, cambiar y compartir, diciendo quién lo hizo) y pone un ejemplo de algo gratis que no es abierto."
+      - "Distingue CC BY de CC BY-SA con un ejemplo del juego, o explica por qué «no se puede vender» no es del todo abierto."
+  - nombre: Respeto y colaboración en el juego
+    descriptores:
+      - Hace la acción de su carta sin mirar la tarjeta de reglas.
+      - Consulta la tarjeta cuando el adulto se lo recuerda.
+      - "Consulta la tarjeta, acepta un «no permitido» y, cuando cambia una receta, escribe «basada en la receta de…»."
+      - Ayuda a otro equipo a interpretar una tarjeta dudosa sin quitarle el turno.

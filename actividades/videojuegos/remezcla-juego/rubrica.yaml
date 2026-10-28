@@ -1,0 +1,26 @@
+niveles: [Empezando, En camino, Lo consigo, Lo amplío]
+criterios:
+  - nombre: Leer y mejorar un juego ajeno
+    descriptores:
+      - Borra el juego recibido y empieza uno nuevo.
+      - Cambia algo con ayuda, sin saber explicar qué hacía el bloque que ha tocado.
+      - "Explica qué hacía la parte que cambia y hace una mejora que funciona sin romper el resto del juego."
+      - "Justifica la mejora con lo que dijeron los autores al probarla y la ajusta a partir de su opinión."
+  - nombre: Permiso y créditos
+    descriptores:
+      - No pone créditos o se presenta como autor de todo el juego.
+      - Pone créditos cuando el adulto se lo recuerda, o con nombres reales.
+      - "La remezcla empieza con «Juego original de…» y «Remezcla de…» con alias, y respeta los «no» de la tarjeta de permiso."
+      - "Los créditos dicen qué cambió cada uno y, si es una remezcla de una remezcla, recogen toda la cadena en orden."
+  - nombre: Fork y abierto
+    descriptores:
+      - Cree que remezclar es quitarle el juego a otra pareja.
+      - Sabe que ha hecho una copia, pero no explica por qué hace falta permiso.
+      - "Explica que un fork es una copia que sigue su propio camino, que el original no cambia y que hace falta permiso o una licencia que lo dé."
+      - "Explica con el ejemplo de MakeCode que gratis y abierto no son lo mismo y qué permite una licencia como la MIT."
+  - nombre: Colaboración con los autores
+    descriptores:
+      - No enseña su remezcla a los autores o no escucha su opinión.
+      - Enseña la remezcla, pero no apunta lo que le dicen.
+      - Prueba la remezcla con los autores, apunta su opinión y da la suya sobre el juego original con respeto.
+      - Ayuda a los autores a entender qué cambió y les propone cómo podrían usar la mejora en su propio juego.

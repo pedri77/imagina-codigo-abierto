@@ -1,0 +1,12 @@
+por_alumno:
+  - { clave: impresion-plantilla, nombre: "Impresión en blanco y negro de la página 1 del esquema oficial de la placa Uno (una por pareja, mejor en A3) y de la ficha de detective (una por alumno)", cantidad: 1.5, unidad: páginas, tipo: fungible, coste_eur: 0.03, enlace: null, alternativa_reciclada: "Esquema proyectado en la pizarra digital y ficha copiada a mano en el cuaderno" }
+por_grupo:
+  - { clave: placa-arduino-uno, nombre: "Placa compatible tipo Uno con su cable USB (1 por pareja; si el centro tiene una placa oficial, úsala como referencia en la mesa del profe)", cantidad: 6, unidad: unidades, tipo: equipo, coste_eur: 8.00 }
+  - { clave: protoboard, nombre: Protoboard de 400 puntos (1 por pareja), cantidad: 6, unidad: unidades, tipo: equipo, coste_eur: 1.50 }
+  - { clave: led-5mm, nombre: "LED de 5 mm de cualquier color (1 por pareja y 6 de reserva)", cantidad: 12, unidad: unidades, tipo: equipo, coste_eur: 0.05 }
+  - { clave: resistencia-220, nombre: "Resistencia de 220 Ω (1 por pareja y 6 de reserva)", cantidad: 12, unidad: unidades, tipo: equipo, coste_eur: 0.02 }
+  - { clave: cable-dupont-mm, nombre: "Cable de puente macho-macho de 20 cm (3 por pareja y 6 de reserva)", cantidad: 24, unidad: unidades, tipo: equipo, coste_eur: 0.03 }
+  - { clave: ordenador-portatil, nombre: "Portátil del centro con el entorno de Arduino instalado o navegador para Wokwi (1 por pareja)", cantidad: 6, unidad: unidades, tipo: equipo }
+  - { clave: lupa, nombre: Lupa de mano (1 por pareja), cantidad: 6, unidad: unidades, tipo: equipo }
+  - { clave: cronometro, nombre: Cronómetro o tablet, cantidad: 6, unidad: unidades, tipo: equipo }
+  - { clave: rotuladores, nombre: "Rotuladores de colores para rodear piezas en el esquema", cantidad: 3, unidad: estuches, tipo: equipo }

@@ -1,0 +1,12 @@
+por_alumno:
+  - { clave: cartulina, nombre: "Cartulina negra (media hoja A4 por alumno; la pareja corta su hoja en 4 cartas de tamaño A6)", cantidad: 0.5, unidad: hojas A4, tipo: fungible, coste_eur: 0.10, enlace: null, alternativa_reciclada: "Cartón de cajas de cereales pintado de negro con témpera o rotulador por la cara gris" }
+  - { clave: impresion-plantilla, nombre: "Impresión de la ficha con la tabla de magnitudes de Orión y la hoja para la familia (por las dos caras)", cantidad: 1, unidad: páginas, tipo: fungible, coste_eur: 0.03, enlace: null, alternativa_reciclada: "Tabla copiada en la pizarra y hoja para la familia enviada por la aplicación del centro" }
+  - { clave: folio, nombre: "Folio para proteger la mesa del polvo de tiza y apuntar las respuestas de los cielos misteriosos", cantidad: 1, unidad: unidades, tipo: fungible, coste_eur: 0.01, enlace: null, alternativa_reciclada: "Reverso de un folio usado" }
+por_grupo:
+  - { clave: tiza, nombre: "Tiza blanca (una por pareja; lápiz blanco o pegatinas pequeñas para quien no pueda usar tiza)", cantidad: 1, unidad: cajas, tipo: fungible }
+  - { clave: cartulina, nombre: "Cartulina negra A4 para los tres cielos misteriosos del docente (agujereados con punzón)", cantidad: 3, unidad: hojas A4, tipo: fungible }
+  - { clave: punzon, nombre: Punzón (solo docente, antes de la sesión), cantidad: 1, unidad: unidades, tipo: equipo }
+  - { clave: linterna, nombre: "Linterna (la «farola» de la demostración)", cantidad: 1, unidad: unidades, tipo: equipo }
+  - { clave: cinta-carrocero, nombre: "Cinta de carrocero para pegar los cielos en la ventana y los datos en el mapa", cantidad: 1, unidad: rollos, tipo: fungible }
+  - { clave: tijeras-punta-roma, nombre: Tijeras de punta roma, cantidad: 6, unidad: unidades, tipo: equipo }
+  - { clave: tarjeta-carton, nombre: "Tarjetas de dato para el juego del mapa (12, con un lugar inventado y una carta)", cantidad: 12, unidad: unidades, tipo: fungible }

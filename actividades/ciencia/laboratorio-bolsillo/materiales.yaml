@@ -1,0 +1,14 @@
+por_alumno:
+  - { clave: folio, nombre: "Ficha de datos de las tres estaciones (una por alumno)", cantidad: 1, unidad: hojas A4, tipo: fungible, coste_eur: 0.01, enlace: null, alternativa_reciclada: "Reverso de un folio usado con la tabla dibujada a mano" }
+  - { clave: lapiz, nombre: Lápiz, cantidad: 1, unidad: unidades, tipo: equipo, coste_eur: 0, enlace: null, alternativa_reciclada: null }
+por_grupo:
+  - { clave: tablet, nombre: "Tablet del centro con phyphox instalada (sin cuenta), 2 por estación", cantidad: 6, unidad: unidades, tipo: equipo }
+  - { clave: pelota, nombre: "Pelotas de 4 cm o más (ping-pong, tenis, goma)", cantidad: 3, unidad: unidades, tipo: equipo }
+  - { clave: bandeja, nombre: "Bandeja rígida con borde (superficie de golpe y recogida de canicas)", cantidad: 3, unidad: unidades, tipo: equipo }
+  - { clave: bayeta, nombre: "Bayeta o trapo doblado (superficie blanda para el medidor de sonido)", cantidad: 1, unidad: unidades, tipo: equipo }
+  - { clave: regla, nombre: "Regla de 30 cm (golpe de salida)", cantidad: 4, unidad: unidades, tipo: equipo }
+  - { clave: cinta-metrica, nombre: "Cinta métrica para marcar 1 m de altura en la pared", cantidad: 1, unidad: unidades, tipo: equipo }
+  - { clave: cinta-carrocero, nombre: "Cinta de carrocero (marca de 1 m, salida y meta del tobogán)", cantidad: 1, unidad: rollos, tipo: fungible }
+  - { clave: carton-soporte, nombre: "Cartón rígido de 30 × 60 cm, el tobogán", cantidad: 2, unidad: unidades, tipo: equipo }
+  - { clave: libro, nombre: "Libro grueso para levantar el tobogán (y otro de tope al final)", cantidad: 4, unidad: unidades, tipo: equipo }
+  - { clave: canica, nombre: Canicas, cantidad: 3, unidad: unidades, tipo: equipo }

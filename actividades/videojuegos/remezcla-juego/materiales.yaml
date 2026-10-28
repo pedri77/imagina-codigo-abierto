@@ -1,0 +1,7 @@
+por_alumno:
+  - { clave: folio, nombre: "Ficha de remezcla (tarjeta de permiso, notas del juego recibido, mejora y opinión de los autores) y tarjeta de pasos impresa (una por pareja)", cantidad: 1, unidad: unidades, tipo: fungible, coste_eur: 0.01, enlace: null, alternativa_reciclada: "Reverso de un folio usado (salvo la tarjeta de pasos impresa)" }
+por_grupo:
+  - { clave: ordenador, nombre: "Ordenador del centro con navegador actualizado y acceso a MakeCode Arcade (1 por pareja)", cantidad: 8, unidad: unidades, tipo: equipo }
+  - { clave: proyector, nombre: Proyector o pantalla digital del aula, cantidad: 1, unidad: unidades, tipo: equipo }
+  - { clave: gomets, nombre: "Gomets (jugador del plan B desconectado)", cantidad: 1, unidad: hojas, tipo: fungible }
+  - { clave: dado, nombre: "Dado (solo para el plan B desconectado)", cantidad: 4, unidad: unidades, tipo: equipo }

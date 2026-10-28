@@ -1,0 +1,67 @@
+slug: gracias-autor
+titulo: "Gracias, autor: cómo citar"
+linea: divulgadores
+version: "0.1"
+edad: { min: 8, max: 12 }
+tramos: [primaria-2, primaria-3]
+duracion_min: 60
+temas: [codigo-abierto]
+resumen: >
+  Descubrimos por qué hay que decir quién hizo algo y aprendemos a citar una imagen, un texto o una canción
+  con cuatro datos: título, autor, fuente y licencia. Conocemos los símbolos de Creative Commons (BY, SA, NC, ND)
+  con ejemplos y cada alumno elige qué licencia pondría a un dibujo o una explicación suya hecha en Imagina,
+  y lo justifica en voz alta. Todo queda dentro del aula.
+objetivos:
+  - Explicar con sus palabras por qué se cita al autor de una obra y qué pasa cuando no se hace.
+  - Citar una imagen, un texto o una canción con título, autor, fuente y licencia.
+  - Distinguir «gratis» de «abierto» y explicar qué permiten los símbolos BY, SA, NC y ND con un ejemplo.
+  - Elegir una licencia para una creación propia y justificar la decisión con al menos una razón.
+competencias:
+  - Competencia en comunicación lingüística
+  - Competencia digital
+  - Competencia ciudadana
+cronograma:
+  - { desde: 0, hasta: 5, fase: enganche, que_pasa: "Vídeo de Ima. El docente enseña un dibujo suyo sin firma y otro con su nombre tapado. ¿De quién es? ¿Cómo lo sabemos?" }
+  - { desde: 5, hasta: 20, fase: explicacion, que_pasa: "Por qué citamos. La cita de cuatro datos (título, autor, fuente, licencia). Gratis no es lo mismo que abierto. Los cuatro símbolos de Creative Commons con un ejemplo cada uno." }
+  - { desde: 20, hasta: 50, fase: construccion, que_pasa: "Detectives de citas por parejas (10 min), juego «¿Se puede?» con tarjetas de situación (10 min) y etiqueta de licencia para su propia creación, explicada en voz alta a su pareja (10 min)." }
+  - { desde: 50, hasta: 60, fase: cierre, que_pasa: "Dos o tres voluntarios justifican su licencia ante la clase. Foto de las etiquetas al álbum, autoevaluación, kudos y proyecto a casa." }
+seguridad:
+  - Nada se publica fuera de la plataforma. Las licencias que eligen son un ejercicio de aula y no suben a ninguna web pública.
+  - Nada se graba. Las justificaciones se dicen en directo y la foto es solo de las etiquetas, sin caras.
+  - Las etiquetas llevan como autor un seudónimo o las iniciales, nunca el nombre completo ni otros datos personales.
+  - Las imágenes, textos y canciones de los ejemplos los inventa o los hace el docente; no se proyectan obras de terceros.
+  - Nadie está obligado a hablar ante toda la clase. Siempre puede justificar su licencia solo a su pareja.
+adaptaciones:
+  mas_reto:
+    - "Combinar licencias: si mezclo un dibujo CC BY-SA con otro CC BY, ¿qué licencia puede tener el resultado? ¿Y si uno es CC BY-NC? Justificarlo con las reglas de los símbolos."
+    - Explicar por qué no existe una licencia «CC BY-SA-ND» (compartir igual exige poder cambiar la obra y ND lo prohíbe).
+    - Redactar la cita completa de una obra suya como si otra persona la hubiera usado en un trabajo, con las cuatro partes en el orden correcto.
+  mas_apoyo:
+    - Ficha con la cita ya empezada y huecos para título, autor, fuente y licencia.
+    - Tarjetas de símbolos con un dibujo de ayuda (BY una mano que firma, SA dos flechas en círculo, NC una moneda tachada, ND unas tijeras tachadas), dibujadas por el docente.
+    - Elegir la licencia entre solo dos opciones (CC BY o CC BY-NC) y dar una razón.
+  por_tramo:
+    primaria-2: "Trabajan los símbolos BY, SA y NC; ND se presenta como «no se puede cambiar». Las citas son de imagen y texto. Justifican su licencia con una frase («Elijo... porque...»)."
+    primaria-3: "Trabajan los cuatro símbolos y las seis combinaciones. Citan imagen, texto y canción. Justifican la licencia con dos razones y responden a una pregunta de su pareja («¿Y si alguien lo vende?»)."
+proyecto_a_casa: >
+  Busca en casa tres cosas que alguien creó: un libro, una canción y un dibujo o una foto. Para cada una apunta
+  quién la hizo y dónde lo pone. ¿Alguna lleva una licencia o un símbolo? Cuéntale a tu familia qué licencia
+  elegiste para tu creación y por qué.
+video:
+  guion: >
+    Ima sostiene un dibujo precioso de un dragón. «¡Mira qué dragón! Lo hice yo el lunes.
+    Ayer lo vi pegado en otra clase... sin mi nombre. ¿Qué te parece? Me alegra que guste, pero me gustaría que dijeran que es mío.
+    Eso es citar: decir quién hizo algo. Es una forma de dar las gracias, y además ayuda a que otros encuentren la obra original.
+    Para citar bien usamos cuatro datos: el título, el autor, dónde lo encontraste y la licencia.
+    ¿Licencia? Es como una nota que deja el autor diciendo qué puedes hacer con su obra.
+    Hay unos símbolos muy famosos, los de Creative Commons. BY significa «di quién lo hizo».
+    SA, «si lo cambias, compártelo igual». NC, «sin ganar dinero con ello». Y ND, «no lo cambies».
+    Ojo con una trampa: que algo sea gratis no significa que puedas copiarlo y cambiarlo. Lo que te da permiso es la licencia.
+    Hoy vas a ser detective de citas y, al final, elegirás qué licencia pondrías tú a un dibujo o una explicación tuya. Sin respuestas correctas: lo importante es que expliques por qué. ¿Preparado? ¡Gracias por escucharme!»
+  stream_id: null
+  duracion_seg: 115
+enlaces:
+  - titulo: "Las licencias Creative Commons y sus símbolos (Creative Commons, en inglés)"
+    url: "https://creativecommons.org/share-your-work/cclicenses/"
+  - titulo: "Resumen de la licencia CC BY-SA 4.0 en español (Creative Commons)"
+    url: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"

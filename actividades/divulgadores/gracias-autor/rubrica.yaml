@@ -1,0 +1,26 @@
+niveles: [Empezando, En camino, Lo consigo, Lo amplío]
+criterios:
+  - nombre: Claridad al explicar por qué se cita
+    descriptores:
+      - No sabe decir para qué sirve citar.
+      - Dice que hay que poner el nombre «porque sí» o «porque lo dice el profe».
+      - Explica con sus palabras que citar reconoce el trabajo del autor y ayuda a encontrar la obra.
+      - Da un ejemplo propio de lo que pasa cuando no se cita y distingue «gratis» de «abierto» sin ayuda.
+  - nombre: Estructura de la cita
+    descriptores:
+      - Escribe solo el título o solo el autor.
+      - Escribe dos o tres de los cuatro datos.
+      - Escribe la cita completa (título, autor, fuente, licencia) en las fichas.
+      - Corrige citas incompletas de compañeros y explica qué faltaba y por qué importa.
+  - nombre: Justificación de la licencia con ejemplos
+    descriptores:
+      - Elige una licencia sin dar ninguna razón.
+      - Da una razón general («porque me gusta»).
+      - Explica qué permite y qué prohíbe su licencia y da una razón ligada a su creación.
+      - Compara su licencia con otra, pone un ejemplo de uso permitido y otro prohibido y responde a una pregunta de su pareja.
+  - nombre: Escucha y colaboración
+    descriptores:
+      - Interrumpe o no atiende a su pareja.
+      - Escucha cuando el adulto se lo pide.
+      - Escucha a su pareja y le hace una pregunta sobre su licencia.
+      - Resume lo que dijo su pareja antes de opinar y le propone una mejora respetuosa.

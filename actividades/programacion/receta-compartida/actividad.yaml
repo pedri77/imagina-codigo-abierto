@@ -1,0 +1,67 @@
+slug: receta-compartida
+titulo: La receta compartida
+linea: programacion
+version: "0.1"
+edad: { min: 6, max: 10 }
+tramos: [primaria-1, primaria-2]
+duracion_min: 60
+temas: [codigo-abierto]
+resumen: >
+  Cada equipo inventa la receta de un batido imaginario: ingredientes y pasos ordenados, como un algoritmo.
+  Le añade una tarjeta de «reglas de uso» en la que decide si se puede copiar, cambiar, si hay que decir
+  quién la hizo y si se puede vender. En un juego de rol, los demás equipos intentan hacer cosas con la
+  receta y descubren qué permite cada regla. Así nacen, sin siglas, las ideas de las licencias abiertas.
+objetivos:
+  - "Escribir una receta con pasos ordenados y precisos que otro equipo pueda seguir (un algoritmo)."
+  - "Decidir las reglas de uso de una creación propia y explicar qué permite y qué impide cada regla."
+  - "Distinguir «gratis» de «abierto»: abierto es poder usar, estudiar, cambiar y compartir, diciendo quién lo hizo."
+  - "En 3.º y 4.º, reconocer las licencias CC BY y CC BY-SA y explicar en qué se diferencian."
+competencias:
+  - Competencia matemática y en ciencia, tecnología e ingeniería (STEM)
+  - Competencia ciudadana
+  - Competencia en comunicación lingüística
+cronograma:
+  - { desde: 0, hasta: 5, fase: enganche, que_pasa: "Vídeo de Ima. Pregunta guía: si inventas algo, ¿quién decide qué pueden hacer los demás con ello?" }
+  - { desde: 5, hasta: 15, fase: explicacion, que_pasa: "La receta del docente con su tarjeta de reglas. Las cuatro preguntas de la tarjeta (copiar, cambiar, decir quién, vender) y una ronda de prueba del juego." }
+  - { desde: 15, hasta: 50, fase: construccion, que_pasa: "Por equipos, receta y tarjeta de reglas (13 min). Juego de rol de la plaza de las recetas en tres rondas (15 min). Recuento de versiones nuevas y prueba de una receta cambiada (7 min)." }
+  - { desde: 50, hasta: 60, fase: cierre, que_pasa: "Foto de las recetas y sus tarjetas al álbum, autoevaluación, kudos y proyecto a casa." }
+seguridad:
+  - "Los batidos son imaginarios: no se prueba ni se trae comida al aula. Así se evitan alergias e intolerancias."
+  - "Las fichas de la tienda son de papel; no se usa dinero de verdad."
+  - "Tijeras de punta roma solo si se recortan las tarjetas en clase."
+adaptaciones:
+  mas_reto:
+    - "Añadir a la tarjeta una quinta regla: «Si cambias mi receta, tu versión tiene que llevar estas mismas reglas». Comprobar en el juego qué pasa con las versiones de las versiones."
+    - "Ordenar todas las tarjetas de la clase de «más cerrada» a «más abierta» y justificar el orden con lo que ha pasado en el juego (cuántas versiones nuevas ha tenido cada receta)."
+    - "Escribir en dos frases por qué una receta con la regla «no se puede vender» se comparte, pero no es del todo abierta."
+  mas_apoyo:
+    - "Plantilla de receta con 4 casillas de pasos y dibujos de ingredientes para recortar."
+    - "Tarjeta de reglas ya impresa con las cuatro preguntas y dos huecos (gomet verde sí, gomet rojo no)."
+    - "El docente hace de autor guardián en el primer turno del juego para modelar cómo se consulta la tarjeta."
+  por_tramo:
+    primaria-1: "Recetas de 3 o 4 pasos con dibujos y palabras cortas. Tarjeta de reglas con gomets verdes y rojos, sin siglas. Ideas clave en palabras del alumnado: «se puede usar», «se puede mirar cómo está hecho», «se puede cambiar», «se puede compartir», «hay que decir quién lo hizo». En 2.º, además, por qué gratis no es lo mismo que abierto."
+    primaria-2: "Recetas de 5 o 6 pasos con cantidades. Tarjeta con la quinta regla (compartir igual). Al final, el docente pone nombre a lo que han inventado: la tarjeta «todo sí y di quién lo hizo» es CC BY; con la quinta regla, CC BY-SA. Las licencias Creative Commons son las reglas de uso que mucha gente usa para compartir textos, dibujos y fotos."
+proyecto_a_casa: >
+  Inventa con tu familia la receta de algo que no se cocina: un juego, un baile, una forma de doblar un papel.
+  Escribe los pasos y hazle una tarjeta de reglas de uso. Busca en casa un libro, un cuento o una canción y
+  pregunta: ¿qué dice sobre lo que se puede hacer con él? ¿Es gratis, abierto, las dos cosas o ninguna?
+video:
+  guion: >
+    Ima agita una coctelera de juguete. «¡Hola! Me acabo de inventar el batido arcoíris. Lo tengo apuntado paso a paso:
+    primero el plátano, luego tres fresas, después lo agito diez veces. Una receta es como un programa:
+    pasos en orden que cualquiera puede seguir. Si me salto un paso o lo digo mal, el batido sale fatal.
+    Ahora tengo una duda. Mi amigo quiere copiar mi receta. Mi vecina quiere cambiarle las fresas por mango.
+    Y alguien quiere venderla en su tienda. ¿Puede? Como la he inventado yo, decido yo las reglas.
+    Por eso a mi receta le pongo una tarjeta de reglas de uso con cuatro preguntas.
+    ¿Se puede copiar? ¿Se puede cambiar? ¿Hay que decir quién la hizo? ¿Se puede vender?
+    Hoy inventarás tu propia receta, le pondrás sus reglas y jugaremos a ver qué pasa con cada una.
+    Te doy una pista: cuando dejas que otros usen, miren, cambien y compartan lo que haces,
+    diciendo siempre quién lo hizo, lo estás compartiendo en abierto. Y ojo, que abierto no es lo mismo que gratis.
+    ¿Qué receta crecerá más? ¡A inventar!»
+  stream_id: null
+  duracion_seg: 115
+enlaces:
+  - titulo: "Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0), resumen en español"
+    url: "https://creativecommons.org/licenses/by/4.0/deed.es"
+  - titulo: "Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0), resumen en español"
+    url: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"

@@ -1,0 +1,8 @@
+por_alumno:
+  - { clave: impresion-plantilla, nombre: "Ficha impresa en blanco y negro: cuatro citas incompletas para corregir y tabla de los cuatro símbolos", cantidad: 1, unidad: hojas A4, tipo: fungible, coste_eur: 0.03, enlace: null, alternativa_reciclada: "Copiar las citas en la pizarra y responder en el cuaderno" }
+  - { clave: cartulina, nombre: "Cartulina blanca A4 (un cuarto de hoja por alumno) para la etiqueta de licencia", cantidad: 0.25, unidad: hojas A4, tipo: fungible, coste_eur: 0.10, enlace: null, alternativa_reciclada: "Recorte de caja de cereales por la cara blanca" }
+  - { clave: lapiz, nombre: Lápiz, cantidad: 1, unidad: unidades, tipo: equipo, coste_eur: 0, enlace: null, alternativa_reciclada: null }
+por_grupo:
+  - { clave: cartulina, nombre: "Cartulina para las 4 tarjetas grandes de símbolos y las 12 tarjetas de situación del juego «¿Se puede?»", cantidad: 3, unidad: hojas A4, tipo: fungible }
+  - { clave: rotuladores, nombre: Rotuladores de colores, cantidad: 3, unidad: estuches, tipo: equipo }
+  - { clave: cinta-carrocero, nombre: Cinta de carrocero para colgar las tarjetas de símbolos en la pizarra, cantidad: 1, unidad: rollos, tipo: fungible }

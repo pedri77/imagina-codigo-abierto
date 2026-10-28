@@ -1,0 +1,74 @@
+slug: laboratorio-bolsillo
+titulo: Laboratorio en el bolsillo
+linea: ciencia
+version: "0.1"
+edad: { min: 8, max: 12 }
+tramos: [primaria-2, primaria-3]
+duracion_min: 60
+temas: [codigo-abierto]
+resumen: >
+  Convertimos las tablets del centro en un laboratorio con phyphox, una aplicación gratuita y de código abierto
+  creada en la Universidad RWTH Aachen (Alemania). Medimos cuánto tarda en caer una pelota con el cronómetro acústico,
+  comparamos qué material amortigua mejor un golpe con el medidor de sonido y medimos la inclinación de un tobogán de cartón.
+  Descubrimos que la ciencia comparte sus herramientas para que cualquiera pueda medir, comprobar y mejorar.
+objetivos:
+  - Medir tiempos muy cortos con el cronómetro acústico y repetir cada medida para detectar errores.
+  - Controlar variables (misma pelota, misma altura) para comparar de forma justa.
+  - Relacionar la inclinación de una rampa con el tiempo que tarda una canica en bajarla, con datos.
+  - Explicar la diferencia entre una herramienta gratuita y una de código abierto.
+competencias:
+  - Competencia matemática y en ciencia, tecnología e ingeniería (STEM)
+  - Competencia digital
+  - Competencia personal, social y de aprender a aprender
+cronograma:
+  - { desde: 0, hasta: 5, fase: enganche, que_pasa: "Vídeo de Ima. Pregunta guía: ¿cuánto tarda en caer una pelota desde tu mano? ¿Más o menos de un segundo?" }
+  - { desde: 5, hasta: 15, fase: explicacion, que_pasa: "Qué sensores tiene una tablet. Qué es phyphox y por qué es abierta. Demostración del cronómetro acústico con dos palmadas y ajuste del umbral. Normas de uso de la tablet." }
+  - { desde: 15, hasta: 47, fase: construccion, que_pasa: "Tres estaciones por equipos de 4, unos 10 min cada una (caída con el cronómetro acústico, golpes y medidor de sonido, tobogán de cartón con inclinación y tiempo). Cada equipo apunta 3 medidas en su ficha." }
+  - { desde: 47, hasta: 60, fase: cierre, que_pasa: "Puesta en común de datos en la pizarra. Foto de las fichas y del tobogán al álbum, autoevaluación, kudos y proyecto a casa." }
+seguridad:
+  - La tablet siempre se apoya en la mesa o la sujeta un alumno con las dos manos. Nunca se deja caer, no se lanza y no se coloca en el suelo donde se pueda pisar.
+  - En el tobogán la tablet solo se apoya quieta para medir la inclinación, sujeta con la mano; nunca baja por la rampa. Lo que baja es una canica.
+  - Las pelotas se sueltan desde la altura de la mano, de pie en el suelo. Nadie se sube a sillas ni a mesas.
+  - No se apunta con la linterna de la tablet a los ojos de nadie.
+  - Las canicas se recogen en una bandeja con borde para que no rueden por el suelo y nadie resbale.
+  - "Privacidad: phyphox no pide cuenta. No se graba audio de personas: el cronómetro acústico y el medidor de sonido solo miden la intensidad del sonido. No se usa la opción de exportar datos ni el acceso remoto."
+adaptaciones:
+  mas_reto:
+    - "Pelota que bota: medir con el cronómetro acústico el tiempo entre dos botes seguidos (sin errores de reacción) y calcular la altura del bote con la fórmula altura ≈ 1,2 × tiempo × tiempo (en metros y segundos)."
+    - Comparar el tiempo de caída medido con el teórico (desde 1 m, unos 0,45 s) y explicar de dónde viene la diferencia.
+    - Proponer una mejora al experimento y escribirla como si se la enviaras a los creadores de phyphox.
+  mas_apoyo:
+    - El docente deja abierta y configurada cada estación; el equipo solo pulsa el botón de inicio.
+    - Ficha con la tabla ya dibujada y una columna para tachar «¿la medida parece rara?».
+    - Roles fijos en el equipo (soltador, golpeador, lector de la tablet, apuntador) que rotan en cada estación.
+  por_tramo:
+    primaria-2: "Miden y comparan («tarda más», «suena menos»). Apuntan 3 medidas y rodean la del medio. En el tobogán comparan dos inclinaciones (un libro o dos libros)."
+    primaria-3: "Calculan la media de 3 medidas y descartan las raras justificándolo. En el tobogán prueban tres inclinaciones, hacen una tabla ángulo-tiempo y escriben una conclusión. Comparan con el tiempo teórico de caída."
+proyecto_a_casa: >
+  Sin tablet: suelta una pelota y una hoja de papel a la vez desde la misma altura. ¿Cuál llega antes? Ahora arruga la hoja
+  en una bola y repítelo. Explícale a tu familia qué ha cambiado. Si tu familia quiere, puede instalar phyphox en un móvil:
+  es gratis, no pide cuenta y su código está publicado para que cualquiera lo revise.
+video:
+  guion: >
+    Ima saca una tablet de una caja como si fuera un tesoro. «¿Sabías que aquí dentro hay un laboratorio entero?
+    Una tablet tiene un micrófono que oye, un sensor que nota hacia dónde tira la gravedad y mucho más.
+    Hoy vamos a usar phyphox, una aplicación que hicieron en una universidad de Alemania.
+    Es gratis, pero además es abierta: sus creadores publican cómo está hecha para que cualquiera la revise, aprenda de ella y la mejore.
+    No es lo mismo gratis que abierto. Algo gratis puede tener secretos; algo abierto te enseña sus tripas.
+    Primer reto: ¿cuánto tarda en caer una pelota? Es tan rápido que tu reloj no llega. Pero el cronómetro acústico sí:
+    empieza con un golpe y se para con el siguiente. Segundo reto: ¿qué amortigua mejor un golpe, una bandeja o un trapo?
+    El medidor de sonido te lo dirá. Tercer reto: ¿cuánto inclinamos el tobogán para que la canica baje más rápido?
+    Normas de laboratorio: la tablet siempre sujeta, nunca se cae. Y la luz de la linterna, nunca a los ojos.
+    Mide tres veces, apunta y compara. Así trabajan los científicos. ¿Empezamos?»
+  stream_id: null
+  duracion_seg: 115
+enlaces:
+  - titulo: "phyphox: experimentos de física con el móvil o la tablet (RWTH Aachen, web oficial)"
+    url: "https://phyphox.org"
+  - titulo: "Código fuente de phyphox para Android, licencia GPL-3.0 (GitHub)"
+    url: "https://github.com/phyphox/phyphox-android"
+avisos_docente:
+  - "Instalación previa: el coordinador TIC debe instalar phyphox (gratuita, sin cuenta, licencia GPL-3.0) en las tablets del centro al menos una semana antes y comprobar que la aplicación tiene permiso de micrófono."
+  - Hacen falta 6 tablets (2 por estación) con micrófono y acelerómetro. Casi todas las tablets los tienen; compruébalo abriendo los experimentos «Cronómetro acústico» e «Inclinación».
+  - "Privacidad: según la descripción y el código publicado del experimento y la política de privacidad de phyphox (consultadas en octubre de 2026), el cronómetro acústico solo guarda en memoria una fracción de segundo de sonido para detectar los golpes y no crea archivos de grabación; los datos se quedan en la tablet salvo que se exporten. No lo hemos comprobado en todas las versiones: pide al coordinador TIC que lo confirme en la versión instalada. En el aula, no se usa «Exportar» ni «Acceso remoto» y se pulsa «Borrar datos» al terminar."
+  - "Norma por defecto, modificable por el centro: las tablets no salen del aula y no se instala ninguna otra aplicación durante la sesión."

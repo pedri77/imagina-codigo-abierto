@@ -1,0 +1,26 @@
+niveles: [Empezando, En camino, Lo consigo, Lo amplío]
+criterios:
+  - nombre: Lectura del esquema
+    descriptores:
+      - Mira el esquema y la placa pero no señala ninguna pieza en los dos.
+      - Señala en la placa una o dos piezas cuando el adulto le indica dónde mirar en el esquema.
+      - Señala las cuatro piezas en el esquema y en la placa y lee con la lupa la inscripción del microcontrolador.
+      - Encuentra una diferencia entre su placa y el esquema (otro chip o otra referencia) y explica por qué la placa sigue funcionando.
+  - nombre: Prueba y datos
+    descriptores:
+      - Sube el programa pero no mide nada.
+      - Cuenta parpadeos una vez sin apuntar el tiempo.
+      - Apunta los parpadeos en 30 segundos de su placa y los compara con los de otra placa o con el simulador.
+      - Predice el número de parpadeos antes de medir, cambia el ritmo del programa y comprueba si acierta.
+  - nombre: Abierto, gratis y marca
+    descriptores:
+      - Usa «abierto» y «gratis» como si fueran lo mismo.
+      - Dice que el diseño se puede copiar, pero no menciona la licencia ni la marca.
+      - Explica con sus palabras que abierto no es gratis y que el nombre Arduino es una marca aunque el diseño sea abierto.
+      - Pone un ejemplo propio de algo gratis pero cerrado o de pago pero abierto y lo defiende en el debate.
+  - nombre: Colaboración en pareja
+    descriptores:
+      - Uno de los dos hace todo y el otro mira.
+      - Se reparten tareas cuando el adulto se lo pide.
+      - Se turnan entre leer el esquema y buscar con la lupa y se explican lo que encuentran.
+      - Ayuda a otra pareja a encontrar una pieza sin decirle la respuesta, con preguntas o pistas.

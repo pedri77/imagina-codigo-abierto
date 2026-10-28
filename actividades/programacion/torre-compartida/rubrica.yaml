@@ -1,0 +1,26 @@
+niveles: [Empezando, En camino, Lo consigo, Lo amplío]
+criterios:
+  - nombre: Instrucciones (el código de la torre)
+    descriptores:
+      - No dibuja instrucciones o el dibujo no se parece a la torre.
+      - Dibuja la torre terminada, pero no los pasos ni el orden de los pisos.
+      - Dibuja los pisos en orden y otro equipo reconstruye la torre casi sin preguntar.
+      - Corrige su dibujo cuando ve dónde se equivocó el otro equipo y explica qué no estaba claro.
+  - nombre: Reconstruir y mejorar
+    descriptores:
+      - Construye otra torre distinta sin mirar las instrucciones.
+      - Reconstruye la torre con ayuda del adulto para leer el dibujo.
+      - Reconstruye la torre siguiendo el dibujo y le añade una mejora que se ve (más alta o más fuerte).
+      - Comprueba con la prueba del libro o midiendo que su mejora es mejor y lo explica.
+  - nombre: Autoría y compartir en abierto
+    descriptores:
+      - No firma su mejora o tapa lo que hicieron otros equipos.
+      - Firma su mejora cuando el adulto se lo recuerda.
+      - Firma su mejora sin tapar las firmas anteriores y dice qué equipo hizo cada parte.
+      - "Explica que compartir en abierto es dejar usar, mirar, cambiar y volver a compartir diciendo quién lo hizo, y pone un ejemplo propio."
+  - nombre: Colaboración
+    descriptores:
+      - Trabaja solo o no deja tocar la torre a su equipo.
+      - Colabora cuando el adulto reparte las tareas.
+      - Se reparte las tareas con su equipo y respeta la torre de los demás.
+      - Ayuda a otro equipo a entender unas instrucciones sin hacerle la torre.

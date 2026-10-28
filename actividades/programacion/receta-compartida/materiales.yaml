@@ -1,0 +1,9 @@
+por_alumno:
+  - { clave: folio, nombre: "Hoja de la receta del equipo y hojas para las copias y versiones del juego", cantidad: 1, unidad: hojas A4, tipo: fungible, coste_eur: 0.01, enlace: null, alternativa_reciclada: "Reverso de un folio usado" }
+  - { clave: cartulina, nombre: "Tarjeta de reglas de uso (un cuarto de A4, una por equipo y otra para llevar a casa)", cantidad: 0.25, unidad: hojas A4, tipo: fungible, coste_eur: 0.10, enlace: null, alternativa_reciclada: "Cartón fino de una caja de cereales" }
+  - { clave: gomets, nombre: "Gomets verdes y rojos para el sí y el no de la tarjeta", cantidad: 1.5, unidad: unidades, tipo: fungible, coste_eur: 0.01, enlace: null, alternativa_reciclada: "Dibujar un círculo verde o rojo con rotulador" }
+por_grupo:
+  - { clave: folio, nombre: "Cartas de acción del juego impresas o copiadas a mano (un juego por equipo; se recortan una vez y se guardan)", cantidad: 5, unidad: hojas A4, tipo: fungible }
+  - { clave: papel-reciclado, nombre: "Fichas de papel para la tienda (tiras de papel usado)", cantidad: 1, unidad: hojas A4, tipo: fungible }
+  - { clave: rotuladores, nombre: Rotuladores o lápices de colores, cantidad: 4, unidad: estuches, tipo: equipo }
+  - { clave: tijeras-punta-roma, nombre: "Tijeras de punta roma (solo si se recortan las cartas en clase)", cantidad: 4, unidad: unidades, tipo: equipo }

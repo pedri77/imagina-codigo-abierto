@@ -1,0 +1,83 @@
+slug: hardware-abierto
+titulo: Hardware abierto
+linea: robotica
+version: "0.1"
+edad: { min: 10, max: 12 }
+tramos: [primaria-3]
+duracion_min: 60
+temas: [codigo-abierto]
+resumen: >
+  Arduino publica los planos de sus placas (el esquema y los archivos de diseño) para que cualquiera los estudie,
+  los fabrique y los mejore. Por eso existen placas compatibles. Por parejas, hacemos de detectives con el esquema
+  oficial impreso y una lupa: buscamos en la placa del aula el microcontrolador, el regulador, el LED del pin 13 y los
+  pines. Después subimos el mismo programa para demostrar que la placa compatible funciona igual, y debatimos qué
+  ganamos todos con los diseños abiertos y por qué el nombre «Arduino» sigue siendo una marca.
+objetivos:
+  - Leer un esquema electrónico real y relacionar sus símbolos y referencias con las piezas de una placa.
+  - Comprobar con una prueba medida que una placa compatible ejecuta el mismo programa que la oficial.
+  - Distinguir «abierto» (puedes estudiar, copiar, cambiar y compartir el diseño con su licencia) de «gratis» (no pagas).
+  - Explicar la diferencia entre un diseño abierto y una marca registrada, con un ejemplo propio.
+competencias:
+  - Competencia matemática y en ciencia, tecnología e ingeniería (STEM)
+  - Competencia digital
+  - Competencia ciudadana
+  - Competencia personal, social y de aprender a aprender
+cronograma:
+  - { desde: 0, hasta: 5, fase: enganche, que_pasa: "Vídeo de Ima. Pregunta guía: ¿se puede copiar una placa sin hacer trampa?" }
+  - { desde: 5, hasta: 15, fase: explicacion, que_pasa: "La receta abierta y la receta secreta. Qué es un esquema, qué dice la licencia de la esquina y por qué abierto no significa gratis." }
+  - { desde: 15, hasta: 45, fase: construccion, que_pasa: "Por parejas: detectives del esquema con lupa (15 min) y prueba de las dos luces con el mismo programa y cronómetro (15 min)." }
+  - { desde: 45, hasta: 60, fase: cierre, que_pasa: "Debate en círculo sobre diseños abiertos y marcas (7 min), foto de la placa al álbum, autoevaluación, kudos y proyecto a casa." }
+seguridad:
+  - "La placa se alimenta solo por el cable USB del portátil. Nunca pilas ni otra fuente de alimentación."
+  - Desconecta el cable USB antes de cambiar cualquier cable del montaje.
+  - "La lupa se usa sobre la placa y la hoja, nunca al sol: una lupa al sol puede quemar."
+  - Las patas de los LED y de los cables pinchan un poco. Se cogen por el plástico y nunca se acercan a la cara.
+  - Si algo se calienta o huele raro, se desconecta el USB al momento y se avisa al docente.
+adaptaciones:
+  mas_reto:
+    - "Buscar en el esquema el segundo chip, el que habla con el ordenador por USB (en la placa oficial, ATmega16U2), y comprobar con la lupa si la placa compatible usa otro distinto. ¿Por qué entonces hace falta instalar un controlador?"
+    - "Dejar el programa en marcha 5 minutos en dos placas y comparar con el cronómetro cuántos parpadeos da cada una. Explicar cualquier diferencia: cada placa tiene su propio reloj de 16 MHz y ninguno es perfecto."
+    - "Diseñar la etiqueta de una placa compatible inventada que cumpla la licencia y respete la marca: nombre propio, frase «compatible con...» y atribución del diseño original."
+  mas_apoyo:
+    - "Esquema impreso con las cuatro piezas ya rodeadas con rotulador de colores; la pareja solo las busca en la placa."
+    - Programa de prueba ya cargado en el portátil; la pareja solo conecta el LED externo y pulsa «Subir».
+    - "Roles fijos en la pareja (lector del esquema y buscador con lupa) que se intercambian a mitad de la sesión."
+  por_tramo:
+    primaria-3: "5.º: buscan las cuatro piezas con el esquema rodeado a medias, suben el programa de prueba y cuentan parpadeos en 30 segundos. En el debate dan un ejemplo de qué se puede hacer con un diseño abierto. 6.º: buscan las piezas sin ayuda, completan la tabla «esquema frente a placa» con las diferencias que encuentren, cambian el programa para otro ritmo y predicen el número de parpadeos antes de medir. En el debate distinguen licencia, marca y precio con argumentos."
+proyecto_a_casa: >
+  Busca en casa, con tu familia, un aparato, un programa o un juego y averiguad juntos si es abierto, gratis, las dos
+  cosas o ninguna. Pista: lo abierto tiene una licencia que dice qué puedes hacer con él. Apúntalo en tu cuaderno con
+  una frase que lo explique y tráelo para compartirlo en la próxima sesión.
+video:
+  guion: >
+    Ima enseña una receta de bizcocho escrita en una tarjeta. «Si mi abuela me deja copiar su receta, puedo hacer
+    el bizcocho en mi casa, cambiarle el chocolate por limón y pasársela a mis amigos, siempre que diga que la receta
+    era suya. Eso es una receta abierta. Pues con las placas electrónicas pasa algo parecido.» Ima saca una placa.
+    «Esta es una placa compatible con Arduino. La empresa Arduino publica los planos de sus placas, que se llaman
+    esquemas, para que cualquiera pueda estudiarlos y fabricar la suya. Por eso hay muchas placas compatibles en
+    el mundo. Hoy vais a ser detectives: con el esquema y una lupa buscaréis el cerebro de la placa, la pieza que
+    controla la electricidad, una lucecita llamada L y las filas de pines. Después subiréis un programa para ver si
+    vuestra placa obedece igual que la original. Pero cuidado con una trampa: abierto no quiere decir gratis.
+    Las placas cuestan dinero y, aun así, su diseño es abierto. Y otra pista para el debate final: aunque el diseño
+    se pueda copiar, el nombre Arduino es una marca y no se puede poner en cualquier placa. ¿Por qué será?
+    Recordad: la placa solo se conecta por el cable USB y se desenchufa antes de tocar cables. ¡A investigar!»
+  stream_id: null
+  duracion_seg: 110
+enlaces:
+  - titulo: "Ficha oficial de la placa Arduino UNO Rev3: esquema, archivos de diseño y pines (Arduino, en inglés)"
+    url: "https://docs.arduino.cc/hardware/uno-rev3/"
+  - titulo: "Esquema oficial de Arduino UNO Rev3 en PDF (Arduino, licencia CC BY-SA 4.0 indicada en el propio esquema)"
+    url: "https://docs.arduino.cc/resources/schematics/A000066-schematics.pdf"
+  - titulo: "Normas de uso de la marca Arduino (Arduino, en inglés)"
+    url: "https://www.arduino.cc/en/trademark"
+  - titulo: "Definición de hardware de código abierto (Open Source Hardware Association, en inglés)"
+    url: "https://oshwa.org/definition/"
+  - titulo: "Simulador Wokwi para Arduino (se usa sin cuenta en el navegador)"
+    url: "https://wokwi.com/projects/new/arduino-uno"
+  - titulo: "SimulIDE, simulador de circuitos de código abierto (licencia AGPLv3) que funciona sin conexión"
+    url: "https://simulide.com/p/"
+lujo: true
+avisos_docente:
+  - "Actividad de lujo: necesita placas Arduino compatibles y componentes, unos 60-70 € de equipo por grupo de 12 que se reutiliza en las cuatro actividades con Arduino. Confírmalo con dirección antes de programarla."
+  - "La primera vez, el coordinador TIC instala el entorno de Arduino y el controlador USB de las placas (a menudo CH340). Sin placas o sin instalación, usa el simulador web Wokwi."
+  - "Plan B sin conexión: si el centro instala SimulIDE (simulador de código abierto que funciona sin internet), la prueba de las dos luces se puede hacer en él. La parte de detectives necesita al menos una placa por cada dos parejas, o una ampliación grande de la foto de la placa en la ficha oficial."

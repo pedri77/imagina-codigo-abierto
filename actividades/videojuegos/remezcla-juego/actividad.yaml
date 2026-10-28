@@ -1,0 +1,72 @@
+slug: remezcla-juego
+titulo: Remezcla un juego
+linea: videojuegos
+version: "0.1"
+edad: { min: 8, max: 12 }
+tramos: [primaria-2, primaria-3]
+duracion_min: 60
+temas: [codigo-abierto]
+resumen: >
+  Cada pareja recibe, con permiso de sus autores, el juego de MakeCode Arcade que otra pareja hizo en una sesión
+  anterior. Lo importa, lo juega, lo mejora en una sola cosa y le añade una pantalla de créditos: «Juego original
+  de… Remezcla de…». Después, los autores prueban la remezcla. Aprendemos qué es un fork (una copia que sigue su
+  propio camino), por qué el permiso y el crédito importan, y que MakeCode es abierto, no solo gratis.
+objetivos:
+  - "Leer y entender un programa escrito por otras personas antes de cambiarlo."
+  - "Mejorar un juego ajeno en una cosa concreta y comprobar con sus autores si la mejora funciona."
+  - "Explicar qué es un fork o remezcla y por qué se pide permiso y se da crédito a los autores originales."
+  - "Distinguir gratis de abierto con un ejemplo real: MakeCode Arcade se publica con licencia abierta (MIT)."
+competencias:
+  - Competencia digital
+  - Competencia ciudadana
+  - Competencia personal, social y de aprender a aprender
+cronograma:
+  - { desde: 0, hasta: 5, fase: enganche, que_pasa: "Vídeo de Ima. Pregunta guía: ¿se puede mejorar un juego que no has hecho tú sin estropeárselo a nadie?" }
+  - { desde: 5, hasta: 15, fase: explicacion, que_pasa: "Qué es una remezcla o fork, con el dibujo de un camino que se bifurca. Tarjeta de permiso: cada pareja decide si deja remezclar su juego. Reparto de archivos e importación." }
+  - { desde: 15, hasta: 50, fase: construccion, que_pasa: "Jugar y leer el juego recibido (5 min). Una mejora (17 min). Pantalla de créditos (5 min). Los autores prueban la remezcla y dan su opinión, ajuste y descarga (8 min)." }
+  - { desde: 50, hasta: 60, fase: cierre, que_pasa: "Captura de la pantalla de créditos al álbum y archivo a la plataforma, autoevaluación, kudos y proyecto a casa." }
+seguridad:
+  - "Sin cuentas ni datos personales: no se inicia sesión en MakeCode ni se usa el botón de compartir ni ningún enlace público."
+  - "En los créditos y en los nombres del juego se usan alias o nombres de equipo, nunca nombre y apellido."
+  - "Los juegos solo se pasan a otra pareja si sus autores han dicho que sí en la tarjeta de permiso. Un «no» se respeta sin preguntar por qué."
+  - Pausas de pantalla. Durante la explicación, la prueba con los autores y el cierre, se deja de mirar la pantalla propia.
+  - Cables de los ordenadores recogidos y sin cruzar zonas de paso.
+avisos_docente:
+  - "Necesita arcade.makecode.com. Una semana antes, pide al coordinador TIC que compruebe que la red del centro no lo bloquea. Si está bloqueado, usa el plan B sin pantallas de la guía."
+  - "Necesita que cada pareja tenga un juego propio de una sesión anterior de MakeCode Arcade subido a la plataforma (por ejemplo, de Mi primer juego de esquivar). Si alguna pareja no lo tiene, recibe el juego base del docente."
+adaptaciones:
+  mas_reto:
+    - "Remezcla de una remezcla: la pareja recibe un juego que ya tiene una remezcla y añade la suya. Los créditos tienen que recoger toda la cadena en orden."
+    - "Registro de cambios en la ficha: qué bloque cambiaron, por qué y qué dijeron los autores al probarlo. Es lo que en los proyectos abiertos se llama historial de cambios."
+    - "Elegir y justificar las reglas de uso de su remezcla: ¿quien la cambie después tiene que compartirla con las mismas reglas? Investigar con el docente la diferencia entre una licencia de software como MIT (deja casi todo, pide mantener el aviso de autor) y otras como GPL (pide además que lo derivado se comparta con la misma licencia)."
+  mas_apoyo:
+    - "Tarjeta de pasos con el dibujo del bloque de mostrar texto de la categoría Juego para los créditos."
+    - "Lista de mejoras posibles para elegir una: cambiar la velocidad de los enemigos, añadir un sonido al chocar, dibujar de nuevo un personaje, añadir un objeto que da puntos."
+    - "Programación en pareja con roles: uno maneja el ratón y el otro lee el juego y la ficha; se cambian cada 10 minutos."
+  por_tramo:
+    primaria-2: "Por parejas, con la tarjeta de pasos y la lista de mejoras. Una mejora pequeña (velocidad, sonido, personaje) y créditos con dos líneas: «Juego original de [alias]» y «Remezcla de [alias]». Idea clave: remezclar es hacer una copia y cambiarla; el original no se toca."
+    primaria-3: "Por parejas y sin tarjeta salvo bloqueo. Una mejora de jugabilidad (nuevo enemigo, nivel, objeto o regla) justificada con la prueba de los autores. Créditos con qué cambiaron. Además, qué es un fork en los proyectos de código abierto y qué permite la licencia MIT de MakeCode Arcade."
+proyecto_a_casa: >
+  Enseña a tu familia tu remezcla y la pantalla de créditos. Pregúntales si conocen alguna canción, receta o cuento
+  que alguien haya cambiado a partir de otro. ¿Decía quién hizo el original? Apúntalo y tráelo a la próxima sesión.
+video:
+  guion: >
+    Ima juega a un juego de naves en una pantalla pixelada. «¡Me encanta este juego! Lo hizo el equipo Cometa.
+    Pero tengo una idea: ¿y si las naves soltaran estrellas que dan puntos? ¿Puedo cambiar su juego?
+    Primero, les pregunto. Me han dicho que sí. Entonces hago una copia de su juego y la cambio. Su juego sigue igual, no le quito nada.
+    Mi copia empieza a ir por su propio camino, como cuando un camino se divide en dos.
+    En programación, a eso se le llama fork, que en inglés significa tenedor: un camino que se abre en dos.
+    También se dice remezcla.
+    Y hay una regla de oro: siempre digo quién hizo el juego original. Por eso, al empezar mi remezcla,
+    sale una pantalla de créditos: juego original del equipo Cometa, remezcla de Ima.
+    Hoy recibirás el juego de otra pareja, con su permiso. Lo jugarás, lo mejorarás en una cosa y le pondrás sus créditos.
+    Usa alias o el nombre de tu equipo, nunca tu nombre y apellido.
+    Por cierto, MakeCode, el programa con el que lo haces, también está compartido en abierto: cualquiera puede mirar cómo está hecho y mejorarlo.
+    ¿Qué le añadirás tú? ¡A remezclar!»
+  stream_id: null
+  duracion_seg: 118
+enlaces:
+  - titulo: "MakeCode Arcade, el editor en el navegador"
+    url: "https://arcade.makecode.com/"
+  - titulo: "Código fuente de MakeCode Arcade en GitHub (licencia MIT, Microsoft)"
+    url: "https://github.com/microsoft/pxt-arcade"

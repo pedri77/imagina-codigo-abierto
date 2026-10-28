@@ -1,0 +1,61 @@
+slug: torre-compartida
+titulo: La torre que pasa de mano en mano
+linea: programacion
+version: "0.1"
+edad: { min: 3, max: 8 }
+tramos: [infantil, primaria-1]
+duracion_min: 60
+temas: [codigo-abierto]
+resumen: >
+  Cada equipo construye una torre con vasos de papel y tiras de cartulina y dibuja las instrucciones para
+  hacerla. El siguiente equipo la reconstruye solo con esas instrucciones, la mejora y añade su mejora
+  al dibujo con la firma de su equipo. Descubrimos que compartir cómo se hace algo permite que otros lo
+  mejoren, y que las instrucciones son el «código» de la torre.
+objetivos:
+  - "Dibujar instrucciones paso a paso que otra persona pueda seguir sin preguntar (un algoritmo)."
+  - "Reconstruir una construcción siguiendo instrucciones de otro equipo y detectar dónde no eran claras."
+  - "Mejorar el trabajo de otros y dejar constancia de quién hizo cada parte (reconocer la autoría)."
+  - "Explicar con sus palabras qué es compartir algo «en abierto»: se puede usar, mirar cómo está hecho, cambiar y volver a compartir, diciendo quién lo hizo."
+competencias:
+  - Competencia matemática y en ciencia, tecnología e ingeniería (STEM)
+  - Competencia personal, social y de aprender a aprender
+  - Competencia ciudadana
+cronograma:
+  - { desde: 0, hasta: 5, fase: enganche, que_pasa: "Vídeo de Ima. Pregunta guía: ¿podrías construir una torre igual que la mía sin verme hacerla?" }
+  - { desde: 5, hasta: 12, fase: explicacion, que_pasa: "La torre misteriosa: el docente enseña una torre, la desmonta y pide reconstruirla. Primero sin instrucciones y luego con su dibujo. Las instrucciones son el código." }
+  - { desde: 12, hasta: 50, fase: construccion, que_pasa: "Ronda 1 (12 min): cada equipo construye su torre y dibuja las instrucciones. Ronda 2 (13 min): las torres se desmontan, las instrucciones pasan al equipo de al lado, que reconstruye, mejora y firma su mejora. Ronda 3 (13 min): otra vez, y prueba final de las torres." }
+  - { desde: 50, hasta: 60, fase: cierre, que_pasa: "Foto de las torres y de las instrucciones firmadas al álbum, autoevaluación, kudos y proyecto a casa." }
+seguridad:
+  - "Nadie se sube a sillas ni mesas para hacer la torre más alta. Altura máxima: la que se alcanza de pie en el suelo."
+  - "Las torres se desmontan con las manos, sin empujarlas ni tirarlas hacia los compañeros."
+  - "En Infantil, los gomets los reparte el docente en tiras y se pegan solo en el papel."
+adaptaciones:
+  mas_reto:
+    - "Instrucciones «sin palabras» para cualquier persona del mundo: solo dibujos y números, y un equipo nuevo debe reconstruir la torre sin ninguna pregunta. Si hace falta preguntar, se corrige el dibujo (depurar)."
+    - "Mejora medida: antes y después de la mejora, medir la altura en vasos o en centímetros y probar si la torre aguanta un libro encima. La mejora solo se firma si los datos dicen que es mejor."
+    - "Contar cuántas firmas tiene cada hoja de instrucciones al final y explicar por qué la torre de la ronda 3 es mejor que la de la ronda 1 aunque nadie la haya inventado entera."
+  mas_apoyo:
+    - "Plantilla de instrucciones con tres casillas ya dibujadas (piso 1, piso 2, piso 3) para rellenar."
+    - "El docente construye con el equipo el primer piso y lo dibuja con ellos como ejemplo."
+    - "Roles en el equipo: constructor, dibujante y comprobador (mira si el dibujo y la torre coinciden)."
+  por_tramo:
+    infantil: "Equipos de 3 con 6 vasos y 2 tiras de cartulina. Instrucciones solo con dibujos: cada vaso es un dibujo boca arriba o boca abajo y cada piso, una fila. La firma del equipo es un gomet de su color con su animal dibujado por el docente. Dos rondas en lugar de tres. La mejora se valora como «más alta» o «más fuerte» (aguanta un peluche encima)."
+    primaria-1: "Equipos de 4 con 12 vasos y 4 tiras. Instrucciones con dibujos numerados por pisos; en 2.º pueden añadir palabras cortas («boca abajo», «encima»). La firma es el nombre inventado del equipo. Tres rondas. Miden la altura en vasos (1.º) o en centímetros con la cinta métrica (2.º) y prueban si aguanta un libro."
+proyecto_a_casa: >
+  Construye en casa una torre con lo que tengas (cajas, rollos de papel, vasos de plástico) y dibuja sus
+  instrucciones. Pide a alguien de tu familia que la reconstruya solo con tu dibujo y que la mejore.
+  Su mejora va al dibujo con su firma. ¿Cuántas firmas consigue tu torre en una semana?
+video:
+  guion: >
+    Ima termina una torre de vasos y tiras de cartulina, muy alta. «¡Mira qué torre! ¿Podrías hacer una igual?
+    Es difícil si no sabes cómo la hice. Pero si dibujo los pasos, piso a piso, cualquiera puede construirla.
+    Esos dibujos son como el código de un programa: dicen cómo se hace algo.
+    Hoy tu equipo construye una torre y dibuja sus instrucciones. Luego se las pasáis al equipo de al lado.
+    Ellos la construyen siguiendo vuestro dibujo, la mejoran y añaden su mejora con su firma.
+    Así, cada equipo aprende de los demás y la torre crece y crece. Nadie la ha hecho sola, pero todos sabemos quién hizo cada parte.
+    Cuando dejas que otros usen lo que haces, que miren cómo está hecho, que lo cambien y lo vuelvan a compartir,
+    lo estás compartiendo en abierto. Y hay una regla importante: siempre decimos quién hizo cada parte.
+    ¿Cuántas firmas tendrá vuestra torre al final? ¡A construir!»
+  stream_id: null
+  duracion_seg: 85
+enlaces: []

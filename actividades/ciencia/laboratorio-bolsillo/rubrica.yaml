@@ -1,0 +1,26 @@
+niveles: [Empezando, En camino, Lo consigo, Lo amplío]
+criterios:
+  - nombre: Medición con la tablet
+    descriptores:
+      - No consigue que el cronómetro acústico arranque y pare con los golpes.
+      - Mide con ayuda del adulto, sin ajustar el umbral.
+      - Mide solo, ajusta el umbral si salta con el ruido y repite cada medida 3 veces.
+      - Detecta una medida rara, explica su causa (ruido, reacción tarde) y la repite o la descarta.
+  - nombre: Comparación justa y datos
+    descriptores:
+      - No registra resultados.
+      - Registra medidas sueltas sin unidad o cambiando varias cosas a la vez.
+      - Registra 3 medidas con unidad y compara cambiando una sola cosa (material, altura o inclinación).
+      - Calcula la media, ordena los datos en una tabla y saca una conclusión que los datos sostienen.
+  - nombre: Explicación de gratis y abierto
+    descriptores:
+      - No sabe decir qué es una herramienta abierta.
+      - Dice que phyphox es abierta «porque es gratis».
+      - Explica que una herramienta abierta publica cómo está hecha para que otros la revisen y la mejoren.
+      - Da un ejemplo de algo gratis que no es abierto y explica por qué compartir herramientas ayuda a comprobar resultados.
+  - nombre: Colaboración y cuidado del material
+    descriptores:
+      - No respeta el turno ni las normas de la tablet.
+      - Cumple su rol cuando el adulto se lo recuerda.
+      - Cumple su rol, rota sin conflicto y sujeta la tablet según las normas.
+      - Ayuda a otro equipo a configurar su medida y cuida que todos sigan las normas de seguridad.

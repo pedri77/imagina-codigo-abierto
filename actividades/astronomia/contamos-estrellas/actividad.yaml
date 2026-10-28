@@ -1,0 +1,82 @@
+slug: contamos-estrellas
+titulo: "Ciencia ciudadana: contamos estrellas"
+linea: astronomia
+version: "0.1"
+edad: { min: 8, max: 12 }
+tramos: [primaria-2, primaria-3]
+duracion_min: 60
+temas: [codigo-abierto]
+resumen: >
+  ¿Cuánta luz de las farolas nos roba el cielo? Aprendemos a medir la contaminación lumínica como lo hacen miles de
+  personas en el mundo: mirando una constelación y comparándola con cartas que muestran solo las estrellas hasta cierto
+  brillo. En clase, de día, dibujamos nuestras propias cartas de Orión con tiza y practicamos con «cielos misteriosos».
+  La observación real es un proyecto a casa con la familia, que puede enviar el dato a un proyecto de ciencia ciudadana
+  cuyos datos son abiertos para todo el mundo.
+objetivos:
+  - Entender la escala de magnitudes de las estrellas (cuanto menor el número, más brillo) y usarla para ordenar estrellas.
+  - Construir cartas de referencia con distinta magnitud límite y usarlas para estimar lo oscuro que está un cielo.
+  - Explicar cómo la luz artificial hace desaparecer las estrellas más débiles.
+  - Comprobar que un solo dato dice poco y que muchos datos compartidos permiten ver un patrón.
+competencias:
+  - Competencia matemática y en ciencia, tecnología e ingeniería (STEM)
+  - Competencia ciudadana
+  - Competencia personal, social y de aprender a aprender
+cronograma:
+  - { desde: 0, hasta: 5, fase: enganche, que_pasa: "Vídeo de Ima. Pregunta guía: ¿por qué en el pueblo se ven más estrellas que en la ciudad?" }
+  - { desde: 5, hasta: 15, fase: explicacion, que_pasa: "La escala de magnitudes con los alumnos como estrellas. Demostración de la farola con una cartulina agujereada a contraluz y una linterna." }
+  - { desde: 15, hasta: 45, fase: construccion, que_pasa: "Por parejas: dibujar con tiza tres cartas de Orión con magnitud límite distinta (15 min), identificar tres cielos misteriosos (10 min) y juego del mapa de datos compartidos (5 min)." }
+  - { desde: 45, hasta: 60, fase: cierre, que_pasa: "Conclusión del mapa, preparación de la hoja para la familia, foto de las cartas al álbum, autoevaluación, kudos y proyecto a casa." }
+seguridad:
+  - "La observación es de noche y siempre con un adulto de la familia, desde casa, un balcón o un lugar tranquilo cercano. Nunca solos ni cruzando calles a oscuras."
+  - "Los agujeros de los cielos misteriosos los hace el docente con el punzón antes de la sesión. El alumnado nunca usa el punzón."
+  - La linterna de la demostración ilumina la cartulina, nunca los ojos de nadie.
+  - "La tiza se usa en la mesa con una hoja de papel debajo. Quien tenga alergia o asma por el polvo usa lápiz blanco o pegatinas."
+adaptaciones:
+  mas_reto:
+    - "Calcular cuántas veces más brilla Rigel (magnitud 0,1) que Mintaka (2,2): cada paso de magnitud es unas 2,5 veces menos luz. Comprobar que salen unas 7 veces."
+    - "Hacer una cuarta carta con magnitud límite 4,5 usando Stellarium (planetario de código abierto) en el ordenador del aula, y contar cuántas estrellas más aparecen."
+    - "En 6.º, con el docente: abrir la hoja de datos abiertos de un año de Globe at Night, filtrar las observaciones de España y comparar las cartas elegidas en ciudades grandes y en zonas rurales."
+  mas_apoyo:
+    - "Cartas con el contorno de Orión ya dibujado en lápiz; la pareja solo marca con tiza las estrellas que tocan."
+    - "Tabla de magnitudes con un color por carta (rojo, carta 1; azul, carta 2; verde, carta 3)."
+    - Trabajar en tríos con roles (lector de la tabla, dibujante y comprobador).
+  por_tramo:
+    primaria-2: "3.º: dos cartas (límite 1,5 y 2,5), con puntos grandes para lo más brillante y pequeños para lo más débil; en los cielos misteriosos dicen qué carta se parece más. 4.º: las tres cartas y explican con sus palabras por qué la carta 1 es la de un cielo con mucha luz."
+    primaria-3: "Las tres cartas, ordenan las estrellas por magnitud con decimales, explican la regla de 2,5 veces por cada paso y justifican la elección en los cielos misteriosos contando estrellas. 6.º: además interpretan el mapa de datos y proponen qué faltaría medir para sacar una conclusión fiable."
+proyecto_a_casa: >
+  Llévate la hoja para tu familia. En una noche despejada y sin Luna, con un adulto, salid más de una hora después de
+  la puesta de sol, dejad que los ojos se acostumbren 10 minutos a la oscuridad y buscad la constelación que indica
+  la hoja. Comparad lo que veis con las cartas y apuntad cuál se parece más. Si tu familia quiere, un adulto puede
+  enviar el dato al proyecto Globe at Night desde su móvil u ordenador: no hace falta cuenta ni ningún dato tuyo.
+  Trae a clase solo la carta que elegisteis y si había nubes, nunca la dirección.
+video:
+  guion: >
+    Ima aparece en un tejado de noche, primero en el centro de una ciudad y después en un pueblo de montaña.
+    «Mirad: en la ciudad veo cuatro o cinco estrellas. En el pueblo, ¡cientos! ¿Han desaparecido las estrellas de
+    la ciudad? No: siguen ahí, pero la luz de farolas, carteles y ventanas ilumina el aire y tapa las más débiles.
+    A eso se le llama contaminación lumínica. ¿Y cómo se mide? Los astrónomos clasifican las estrellas por su brillo
+    con un número, la magnitud. Ojo, que es al revés de lo que parece: cuanto más pequeño el número, más brilla la
+    estrella. Hoy vais a dibujar vuestras propias cartas de la constelación de Orión: una con solo las estrellas
+    más brillantes, otra con algunas más y otra con todavía más. Con ellas sabréis cuánto cielo nos roba la luz.
+    Después, en casa y con vuestra familia, podréis mirar el cielo de verdad y comparar. Y aquí viene lo mejor:
+    miles de familias de todo el mundo hacen lo mismo y comparten su dato en un proyecto de ciencia ciudadana.
+    Un dato solo dice poco, pero miles de datos juntos forman un mapa del cielo de todo el planeta, y ese mapa
+    es abierto: cualquiera puede descargarlo y estudiarlo. La ciencia avanza cuando los datos se comparten.
+    ¿Preparados para contar estrellas?»
+  stream_id: null
+  duracion_seg: 115
+enlaces:
+  - titulo: "Globe at Night: campaña internacional de ciencia ciudadana sobre contaminación lumínica (en inglés)"
+    url: "https://globeatnight.org/"
+  - titulo: "Globe at Night: fechas de las campañas y constelación de cada mes"
+    url: "https://globeatnight.org/campaigns/"
+  - titulo: "Globe at Night: formulario para enviar una observación (lo usa un adulto; sin cuenta)"
+    url: "https://app.globeatnight.org/"
+  - titulo: "Globe at Night: mapas y datos abiertos desde 2006 (licencia CC BY 4.0)"
+    url: "https://globeatnight.org/maps-data/"
+  - titulo: "Stellarium, planetario de código abierto para el ordenador"
+    url: "https://stellarium.org/"
+avisos_docente:
+  - "La observación es nocturna y va como proyecto a casa con la familia. En clase no se recoge la ubicación de nadie: solo la carta elegida y si había nubes."
+  - "El envío a Globe at Night es voluntario y lo hace un adulto de la familia desde su dispositivo, nunca el alumnado con cuenta propia. No pide cuenta: pide fecha, hora, lugar de la observación, carta elegida y nubes. El correo de SciStarter que ofrece al final es opcional y no hace falta. Recomienda a las familias indicar un punto público cercano (una plaza, un parque) en vez de la dirección de casa, porque los datos se publican."
+  - "Las fechas de campaña cambian cada año y conviene programar la sesión unos días antes de una ventana de campaña. Consúltalas en la página de campañas de Globe at Night."
