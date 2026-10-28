@@ -18,4 +18,8 @@ Cada carpeta tiene la guía docente, la ficha del alumno, los materiales con su 
 
 ## Licencia
 
-[CC BY-SA 4.0](LICENSE): puedes usar, adaptar y compartir estas actividades citando a Imagina y compartiendo tus cambios con la misma licencia. ¿Las has mejorado? Abre una propuesta (*pull request*) en este repositorio.
+© 2026 Imagina. Estas actividades se distribuyen con la licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es)). El texto legal completo está en [LICENSE](LICENSE).
+
+Puedes usar, adaptar y compartir estas actividades citando a Imagina y compartiendo tus cambios con la misma licencia. ¿Las has mejorado? Abre una propuesta (*pull request*) en este repositorio.
+
+Los proyectos externos que se citan (phyphox, MakeCode Arcade, SimulIDE, Arduino, Globe at Night…) conservan sus propias licencias y no forman parte de esta obra.
